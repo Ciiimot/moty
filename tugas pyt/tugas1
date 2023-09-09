@@ -1,0 +1,48 @@
+# print("feby")
+# angka1 = 4
+# angka2 = 5
+# hasil = angka1+angka2
+# print("hasilnya", hasil)
+ 
+print ("feby")
+angka1 = 1
+angka2 = 10
+hasil = angka1+angka2
+print("hasilnya", hasil)
+
+print ("feby")
+
+
+
+angka1 = 6
+angka2 = 2
+hasil = angka1-angka2
+print("hasilnya", hasil)
+
+
+
+
+# celcius ke fahrenheit : (9/5 * c) + 32 
+# celcius = 32
+celcius = int(input("masukan derajat celcius"))
+hasil =int((5/9 * celcius-32))
+print("hasilnya :" , hasil , "celcius")
+
+
+
+# fahrenheit ke celcius : 9/5 * (f - 32)
+# fahrenheit = 65
+fahrenheit =int(input("maskan derajat fahrenheit"))
+hasil =int((9/5 * fahrenheit-32))
+print("hasilnya :" , hasil , "fahrenheit")
+
+
+
+#kelvin ke celcius : k-273
+#kelvin = 86
+kelvin =int(input("masukan derajat kelvin"))
+hasil =int((kelvin - 273))
+print("hasilnya :" , hasil , "kelvin")
+
+
+
